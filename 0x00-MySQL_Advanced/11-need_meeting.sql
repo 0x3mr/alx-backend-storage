@@ -1,4 +1,5 @@
-DROP VIEW IF EXISTS need_meeting;
+-- list all students that have a score under 80D
+ROP VIEW IF EXISTS need_meeting;
 CREATE VIEW need_meeting AS 
 SELECT name FROM students 
 WHERE 
