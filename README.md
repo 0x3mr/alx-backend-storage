@@ -1,1 +1,1 @@
-Some procedures & implementations of MySQL
+An empty readme (just for now)
